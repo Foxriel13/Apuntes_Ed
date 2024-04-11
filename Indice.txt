@@ -1,0 +1,5 @@
+quiero meter dentro de indice.txt El fichero lo llamare Indice.txt y contendrá los capítulos del libro:
+⦁	Capitulo 0: Introducción a entornos de desarrollo.
+⦁	Capitulo 1: Repositorios de Código
+⦁	Capítulo 2: UML
+Capítulo 3: IDE de desarrollo más comunes
